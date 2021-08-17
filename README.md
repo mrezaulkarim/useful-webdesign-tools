@@ -62,3 +62,19 @@ Initially created by [Rezaul Karim](https://mrezaulkarim.com) on [Blog](https://
 
 [⬆ back to top](#table-of-contents)
 
+## Colors:
+
+| Website | Description |
+| ------- | ------ |
+| [Color Hunt](https://colorhunt.co/) | Browse through thousands of four color combinations until you find the right one. |
+| [Adobe Color](https://color.adobe.com/create/color-wheel) | Try, generate and save various colors schemes. |
+| [Coolors](https://coolors.co/) | The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes. |
+| [TinEye](https://tineye.com/) | Determine your colors and search images with the perfect color combinations. |
+| [ColorZilla](https://www.colorzilla.com/) | Super convenient to pick colors from a web page. |
+| [Colicious](https://kbrsh.github.io/colicious/) | Press the space bar and generate a new color. Amazing and useful. |
+| [Palette Generator](https://palettegenerator.com/) | Generates a color plate for any image you find on the web. |
+| [Pictaculous](http://www.pearltrees.com/u/440431-pictaculous-generator#l779) | Upload your image and get a compatible color plate. |
+| [The Color App] | Finding colors become much easier with large grid. Available on iTunes. |
+| [Uncldr](https://unclrd.davidkuehne.com/) | (un)clrd is a browser plugin that removes all color information of a given website and turns the entire world wide web into black and white. |
+
+[⬆ back to top](#table-of-contents)
