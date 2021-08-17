@@ -1,5 +1,3 @@
-# useful-webdesign-tools
-
 # Useful Web Design Tools
 This is an awesome project about Web Design Tools. ⚡
 
