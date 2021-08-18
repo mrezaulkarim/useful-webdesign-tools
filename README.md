@@ -190,3 +190,4 @@ Initially created by [Rezaul Karim](https://mrezaulkarim.com) on [Blog](https://
 
 [⬆ back to top](#table-of-contents)
 
+![Awesome][awesome-badge]
