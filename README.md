@@ -127,3 +127,33 @@ Initially created by [Rezaul Karim](https://mrezaulkarim.com) on [Blog](https://
 | [Affinity Photo](https://affinity.serif.com/en-gb/photo/) | Professional Photo editing software for Mac Only |
 
 [⬆ back to top](#table-of-contents)
+
+## Logo Design:
+
+| Website | Description |
+| ------- | ------ |
+| [Designmantic](https://www.designmantic.com/) | Create a professional logo with our logo maker tool that offers hundreds of templates for customization. Edit colors, font, icons for your brand and keep tweaking until satisfied. |
+| [GraphicSprings](https://www.graphicsprings.com/) | Use GraphicSprings’ logo design software to create a brand you’ll love. Design your own unique logo and other brand assets with ease in just minutes. |
+| [Logo Genie](https://www.logogenie.net/) | Design a perfect logo in minutes with our logo maker. |
+| [Logo Makr](https://logomakr.com/) | Create and design your logo for free using an easy logo maker tool. Then just save your new logo on to your computer! |
+| [Logo Type Maker](https://logotypemaker.com/) | Easy-to-use logo creator helps small business owners and entrepreneurs design perfect business logos. |
+| [Logo Garden](https://www.logogarden.com/) | Over 2.5 million custom logos made. Create your logo for free. Edit and download at anytime. |
+| [Logoshi](https://www.logoshi.com/) | Generate professional logos in seconds with our popular logo maker. |
+| [Logo Maker](https://www.logomaker.com/) | Make a logo design in minutes. Logo Maker can make your big idea a reality! |
+
+[⬆ back to top](#table-of-contents)
+
+## Prototyping:
+
+| Website | Description |
+| ------- | ------ |
+| [Sketch](https://www.sketch.com/) | Most use web design tools in MAC. A vector design tools convenient for UI and UX. Only compatible with MAC |
+| [Flinto](https://www.flinto.com/) | Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs. |
+| [ProtoIO](https://proto.io/) | Bring your idea to life in no time. The prototyping solution for all your needs. For UX designers, entrepreneurs, product managers, marketers, and anyone with a great idea. |
+| [Weld](https://www.weld.io/) | Create engaging content, fast. Add interactive content and animations to your website. |
+| [Balsamiq](https://balsamiq.com/) | With Balsamiq Wireframes, anyone can design great websites, web apps, mobile apps, desktop software, user interface. |
+| [AppCooker](https://www.appcooker.com) | Prototyping studio for Apple Watch, iPhone and iPad apps. |
+| [HTML5 UP](https://html5up.net/) | Create classy, customizable and responsive HTML5 templates. |
+| [Axure](https://www.axure.com/) | Axure RP is the only UX tool that gives UX professionals the power to build realistic, functional prototypes. |
+
+[⬆ back to top](#table-of-contents)
