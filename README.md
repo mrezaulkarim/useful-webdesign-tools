@@ -95,3 +95,18 @@ Initially created by [Rezaul Karim](https://mrezaulkarim.com) on [Blog](https://
 | [SplitShire](https://splitshire.com) | Beautiful & exclusive free stock photos. |
 
 [⬆ back to top](#table-of-contents)
+
+## Stock Graphics:
+
+| Website | Description |
+| ------- | ------ |
+| [Vecteezy](https://www.vecteezy.com/) | The best place to find vector images. |
+| [Font Awesome](https://fontawesome.com/) | The world’s most popular and easiest to use icon set just got an upgrade. More icons. styles and Options. |
+| [Flaticon](https://www.flaticon.com/) | Download free vector icons and stickers for your projects. Resources made by and for designers. PNG, SVG, EPS, PSD and BASE 64 formats. |
+| [Roundicons](https://roundicons.com) | Commercial use icon packs library made for apps, websites, infographics and prints. |
+| [The ispot (premium)](https://www.theispot.com/) | Buy pretty illustrations from great artiest. |
+| [Webalys](https://about.webalys.com/) | Webalys produce the best design assets for developers, designers and makers. |
+| [Iconfinder](https://www.iconfinder.com) | Iconfinder is the world’s largest marketplace for vector and raster icons in SVG and PNG formats. |
+| [IconJar](https://geticonjar.com/) | Keep all your icons in one place, locally. Just a click away! For macOS only. |
+
+[⬆ back to top](#table-of-contents)
