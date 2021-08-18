@@ -157,3 +157,36 @@ Initially created by [Rezaul Karim](https://mrezaulkarim.com) on [Blog](https://
 | [Axure](https://www.axure.com/) | Axure RP is the only UX tool that gives UX professionals the power to build realistic, functional prototypes. |
 
 [⬆ back to top](#table-of-contents)
+
+## Collaboration:
+
+| Website | Description |
+| ------- | ------ |
+| [Invision](https://www.invisionapp.com/) | A simple prototyping and collaboration tool for design teams. |
+| [GoVisually](https://govisually.com/) | One of the best way to collect client for your project. |
+| [Red Pen](https://redpen.io/) | From the beginning, our goal has been to make collaboration super-fast. No matter where your colleagues are in the world, if you work with visuals we’ll help you collaborate with your team effortlessly. |
+| [Zeplin](https://zeplin.io/) | The ultimate collaboration tool between designers and developers. |
+| [Cage App](https://cageapp.com/) | A unique dashboard to collaborate with teams and clients. |
+| [Bounce App](https://bounceapp.com/) | A fun and easy way to share ideas on a website. |
+| [Proofhub](https://www.proofhub.com/) | Easily plan, collaborate, organize and deliver projects of all sizes, on time, using one project planning software with all the right tools put at one place. |
+| [Lingo App](https://www.lingoapp.com/) | Stop wasting time looking for files buried in folders. Organize all your visual assets in one place with Lingo. Create and share living brand style guides, digital asset libraries and more. |
+
+[⬆ back to top](#table-of-contents)
+
+## Inspiration:
+
+| Website | Description |
+| ------- | ------ |
+| [Dribble](https://dribbble.com/) | Awesome web design tools for designers. The place where designers share their dazzling assets. |
+| [Muzil](https://muz.li/) | Al the design inspiration you need straight in every new tab (browser extension) |
+| [Design you trust](https://designyoutrust.com/) | Collective blog full of design portfolios and architectural inspirations. |
+| [Really Good Emails](https://reallygoodemails.com/) | Catalog of well designed emails to inspire you when building your newsletter. |
+| [Awwwards](https://www.awwwards.com/) | Design Scramble is a design festival that aims to revitalize the creative community. |
+| [One Page Love](https://onepagelove.com/) | Original Showcase of elegant one page websites. |
+| [SiteSee](https://sitesee.co/) | Curated gallery of beautiful, modern websites from all around the world. |
+| [Designspiration](https://www.designspiration.com/) | Pinterest style board of high level design inspiration to share. |
+| [Materialup](https://www.uplabs.com/posts/materialup) | Curates the best design materials available online everyday. |
+| [Mobile patterns](https://www.mobile-patterns.com/) | Learn how to overcome UX flows for your mobile app. |
+
+[⬆ back to top](#table-of-contents)
+
