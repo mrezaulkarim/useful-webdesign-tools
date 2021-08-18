@@ -189,6 +189,3 @@ Initially created by [Rezaul Karim](https://mrezaulkarim.com) on [Blog](https://
 | [Mobile patterns](https://www.mobile-patterns.com/) | Learn how to overcome UX flows for your mobile app. |
 
 [⬆ back to top](#table-of-contents)
-
-![Awesome][awesome-badge]
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
