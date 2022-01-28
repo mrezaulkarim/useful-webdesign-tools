@@ -8,6 +8,8 @@ Enjoy!
 
 If you like this repo, be sure to ⭐ it.
 
+<a href="https://buymeacoffee.com/mrezaulkarim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 --- 
 
 Initially created by [Rezaul Karim](https://mrezaulkarim.com) on [Blog](https://mrezaulkarim.com/useful-web-design-tools-for-designers/).
